@@ -12,9 +12,9 @@ html,body{
         height:100%;
     }
 #page1{background-color:#4486F4}
-#page1{background-color:#FF86F4}
-#page1{background-color:#A986F4}
-#map-container{background-color:#ff00F4}
+#page2{background-color:#FF86F4}
+#page3{background-color:#A986F4}
+#map_container{background-color:#ff00F4}
 
 
     #map_canvas{
